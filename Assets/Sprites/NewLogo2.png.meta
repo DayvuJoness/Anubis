@@ -1,0 +1,1483 @@
+fileFormatVersion: 2
+guid: 97a2d772149ce954cbd22e41238fa5f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1625404828388293357
+    second: NewLogo2_0
+  - first:
+      213: -8360849706597891594
+    second: NewLogo2_1
+  - first:
+      213: 3807272298595572357
+    second: NewLogo2_2
+  - first:
+      213: 2330400284759906121
+    second: NewLogo2_3
+  - first:
+      213: -4986082891575066947
+    second: NewLogo2_4
+  - first:
+      213: 396324830773864404
+    second: NewLogo2_5
+  - first:
+      213: -5674744801550776816
+    second: NewLogo2_6
+  - first:
+      213: -6277698884418448276
+    second: NewLogo2_7
+  - first:
+      213: 5596589159132543961
+    second: NewLogo2_8
+  - first:
+      213: 6895001455651975928
+    second: NewLogo2_9
+  - first:
+      213: 5053264193378608067
+    second: NewLogo2_10
+  - first:
+      213: 5193205430976211587
+    second: NewLogo2_11
+  - first:
+      213: 766307532411170865
+    second: NewLogo2_12
+  - first:
+      213: -7783542754712712200
+    second: NewLogo2_13
+  - first:
+      213: 5562985969488089449
+    second: NewLogo2_14
+  - first:
+      213: 4051412646175018698
+    second: NewLogo2_15
+  - first:
+      213: 2890015071199046002
+    second: NewLogo2_16
+  - first:
+      213: 5693860862618208739
+    second: NewLogo2_17
+  - first:
+      213: 7219750893578435267
+    second: NewLogo2_18
+  - first:
+      213: -3773004328703926057
+    second: NewLogo2_19
+  - first:
+      213: -2654419449411471536
+    second: NewLogo2_20
+  - first:
+      213: 5713822653707956669
+    second: NewLogo2_21
+  - first:
+      213: 3461391224625421339
+    second: NewLogo2_22
+  - first:
+      213: -4221436816851751478
+    second: NewLogo2_23
+  - first:
+      213: -9011364322061570186
+    second: NewLogo2_24
+  - first:
+      213: 7816793551254321562
+    second: NewLogo2_25
+  - first:
+      213: 5139760415176230167
+    second: NewLogo2_26
+  - first:
+      213: -1221777460342925811
+    second: NewLogo2_27
+  - first:
+      213: 6662197389320899684
+    second: NewLogo2_28
+  - first:
+      213: 3644085943791114812
+    second: NewLogo2_29
+  - first:
+      213: -8737109683862905282
+    second: NewLogo2_30
+  - first:
+      213: -8105543623473884923
+    second: NewLogo2_31
+  - first:
+      213: 7901002497594014559
+    second: NewLogo2_32
+  - first:
+      213: -6854171523338057663
+    second: NewLogo2_33
+  - first:
+      213: -5566102313785165834
+    second: NewLogo2_34
+  - first:
+      213: -7348326313305136878
+    second: NewLogo2_35
+  - first:
+      213: -3179205336560396699
+    second: NewLogo2_36
+  - first:
+      213: 5660410781041048078
+    second: NewLogo2_37
+  - first:
+      213: 1860276799448676392
+    second: NewLogo2_38
+  - first:
+      213: 1439726813710369192
+    second: NewLogo2_39
+  - first:
+      213: 1800373464382783813
+    second: NewLogo2_40
+  - first:
+      213: -6368099792470904641
+    second: NewLogo2_41
+  - first:
+      213: 6458211137120733818
+    second: NewLogo2_42
+  - first:
+      213: 6505380010037445583
+    second: NewLogo2_43
+  - first:
+      213: 7883184026118584894
+    second: NewLogo2_44
+  - first:
+      213: 8257429083134151432
+    second: NewLogo2_45
+  - first:
+      213: 9201731249930242157
+    second: NewLogo2_46
+  - first:
+      213: 4713035010564257066
+    second: NewLogo2_47
+  - first:
+      213: -7736441826510984023
+    second: NewLogo2_48
+  - first:
+      213: -2756602003790163940
+    second: NewLogo2_49
+  - first:
+      213: 3661169723778622487
+    second: NewLogo2_50
+  - first:
+      213: 5274323920208531540
+    second: NewLogo2_51
+  - first:
+      213: 263775016429416182
+    second: NewLogo2_52
+  - first:
+      213: -3221296307878181293
+    second: NewLogo2_53
+  - first:
+      213: 459652196572580651
+    second: NewLogo2_54
+  - first:
+      213: 5829682997503359033
+    second: NewLogo2_55
+  - first:
+      213: 1353500804171332944
+    second: NewLogo2_56
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewLogo2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2988cfb52b217a438c474b05088ec06
+      internalID: 1625404828388293357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_1
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e74c2b0c077304183836594b5295fd
+      internalID: -8360849706597891594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719c39795e763143b9b0154c0e9dbf8
+      internalID: 3807272298595572357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_3
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8213c19ee8e7b4e808c3bcba15db43
+      internalID: 2330400284759906121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_4
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea1d57ebe7dfa45a955d1226dcf436
+      internalID: -4986082891575066947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_5
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2502
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f9cae19a78d84a960a9bd56bc480d
+      internalID: 396324830773864404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27b185aa9ecaf48b1b23f27d7582ae
+      internalID: -5674744801550776816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab40fbe4dd84e488ef20ebd060a30e
+      internalID: -6277698884418448276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_8
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19349b76090dd4a40be893524bf3e765
+      internalID: 5596589159132543961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_9
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b9ae7dd4b63c4d8a37a33102a356c
+      internalID: 6895001455651975928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_10
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6922bbac54d9434580914720dcc6e3a
+      internalID: 5053264193378608067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_11
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2224
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea486dbe34cdd6a4aba568dcbcf53bf9
+      internalID: 5193205430976211587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a40e9dcefbb44e4c91a85a2dfb37117
+      internalID: 766307532411170865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dcc9a29a15644494e73aeaad90418
+      internalID: -7783542754712712200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_14
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce5a064fab55804a84c26cff62167d0
+      internalID: 5562985969488089449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_15
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa3127ec981fdd44a2297543b3636e6
+      internalID: 4051412646175018698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_16
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5b2d2e79f5c340ba8d308f7b602b9
+      internalID: 2890015071199046002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_17
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1946
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7bef6bc4b082a4f9397da4bec2082e
+      internalID: 5693860862618208739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf1fcbb516e6a4e89479d3b3dc7ce6
+      internalID: 7219750893578435267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7714ac37b49d14c900b59ebee50162
+      internalID: -3773004328703926057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_20
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e20b9910b24a90458ca030d74a319ff
+      internalID: -2654419449411471536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_21
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b858d4240adee42a0f86988d3c32f0
+      internalID: 5713822653707956669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_22
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ada0dc463d3c44aa90df3f0eacfc18
+      internalID: 3461391224625421339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_23
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1668
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a43105e7643e848b99ad5d94bf6e81
+      internalID: -4221436816851751478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c34e94e29c3b384b9f26746b469f14c
+      internalID: -9011364322061570186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_25
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275332bb87f6a94e8cced7b54cc1a2d
+      internalID: 7816793551254321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_26
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c267a6f19572b8d4c9038d1bd493ffd8
+      internalID: 5139760415176230167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_27
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb66f345a829147a89e7d4a19c4bfb
+      internalID: -1221777460342925811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_28
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cd7f0f3752a364ab083de1acb2dfde
+      internalID: 6662197389320899684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_29
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1390
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a840f8d818ab34e89258b72c8dc5c8
+      internalID: 3644085943791114812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687d0b70e90c06647b0d6515e58b1c02
+      internalID: -8737109683862905282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e5337bedf20e24e806c0bacb6cde9a
+      internalID: -8105543623473884923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_32
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad95fcd7237484c8ead4af6aeedced
+      internalID: 7901002497594014559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_33
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0715b36986d6d4ba6506cf2d742846
+      internalID: -6854171523338057663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_34
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd22ce7341068843a1f8297e882d5ac
+      internalID: -5566102313785165834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_35
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1112
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913d9802a4cf61d4195b199c74178e48
+      internalID: -7348326313305136878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144b95b8d0690c4691e5873dcebd047
+      internalID: -3179205336560396699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_37
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad508b47ee32776498efe0e01bbdd041
+      internalID: 5660410781041048078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_38
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef18f92d3a0264d8e98f177a283c99
+      internalID: 1860276799448676392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_39
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b74ef4e6b2191c4e876a3d219873c9a
+      internalID: 1439726813710369192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_40
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38543ac187e617c4aacab03fb5489a4d
+      internalID: 1800373464382783813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_41
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 834
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5d259e7028124db285edbd313e731
+      internalID: -6368099792470904641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031cb65230403774a9914badf9e49108
+      internalID: 6458211137120733818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22922aacab9f914428c685c567e21f68
+      internalID: 6505380010037445583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_44
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47018ea425d92b5429a4b14bd4cc4ecf
+      internalID: 7883184026118584894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_45
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d25b3572a0a204a984fd1f8adc28d9
+      internalID: 8257429083134151432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_46
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c9a8e745b671d48963534423a799a6
+      internalID: 9201731249930242157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_47
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 556
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8e62f08cdc30a42af98cf06bc8d5a1
+      internalID: 4713035010564257066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460191ca6aad6145b6bf736fb356939
+      internalID: -7736441826510984023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_49
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7980a1bf13a4504ebefae9fe8181426
+      internalID: -2756602003790163940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_50
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6feefd1ea7284986236d85f954ea3
+      internalID: 3661169723778622487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_51
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc0a7cc0f4d1ca478672f409123d8c6
+      internalID: 5274323920208531540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_52
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475bc81d2b6a29b4d92db5e91b712bec
+      internalID: 263775016429416182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_53
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 278
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b915404f81414c9d4f1998a97b95c
+      internalID: -3221296307878181293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896ce9be3da2ab04cab13d3aace26476
+      internalID: 459652196572580651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_55
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d996c2832c43adf4b8e0a1477c8b2769
+      internalID: 5829682997503359033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewLogo2_56
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 500
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38501b3e3d4f6814f8db7611affed5b7
+      internalID: 1353500804171332944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
