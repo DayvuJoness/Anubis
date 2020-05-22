@@ -97,3 +97,4 @@ public class Platform : MonoBehaviour
         }
     }
 }
+// Я тут был!
